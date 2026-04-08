@@ -5,6 +5,13 @@ The goal is to transform scattered learning and project experience into reusable
 
 ---
 
+## 🌐 Language
+
+- English (current)
+- [中文版本](README_zh.md)
+
+---
+
 ## 🎯 Purpose
 
 Instead of using AI tools for one-time answers, this repository is designed to:
